@@ -12,4 +12,4 @@ Shell Scripting Topics
 7. Inputs
 8. Exit Status
 9. Quotes
-10. Redirectiors
+10. Redirectiors.
