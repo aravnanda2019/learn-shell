@@ -1,4 +1,4 @@
-echo Hello World Hai
+echo Hello World
 
 ## Color Syntax
 # echo -e "\e[COLm MESSAGE \e[0m"
@@ -14,5 +14,5 @@ echo Hello World Hai
 
 # \e[0m -> Zero code is going to reset the color, Meaning if we enable color for sure we need to disable it, otherwise color will continue on screen
 
-echo -e "\e[31mHello in Red Color"
+echo -e "\e[31mHello in Red Color\e[0m"
 echo Hello World
