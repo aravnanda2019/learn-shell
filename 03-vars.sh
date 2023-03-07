@@ -3,4 +3,6 @@ echo "Hello, Good Morning, Today Date is ${DATE}"
 
 # Command Substitution
 DATE=$(date)
+DATE1=$(date)
 echo "Hello, Good Morning, Today date is ${DATE}"
+echo "Hello, Good Morning, Today date is ${DATE1}"
