@@ -8,3 +8,6 @@ echo All Arguments = $*
 echo All Arguments = $@  # All Arguments
 
 echo Number of Arguments = $#  #Number of Arguments
+
+## Accessing Variable from shell
+echo x = $x
