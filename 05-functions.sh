@@ -2,8 +2,12 @@
 
 xyz() {
   echo Hello  From Function
+  echo First Argument - $1
+  echo Second Argument -- $2
+  echo All Arguments - $*
+  echo No of Arguments - $#
 }
-
+## Main Program
 ## Call a Function
 
-xyz
+xyz 123 456
